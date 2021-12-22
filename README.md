@@ -1,11 +1,8 @@
-# Régression Linéaire Exponentielle Puissance En C
+# Régression Linéaire et Exponentielle et Puissance En C
 programme pour effectuer une régression linéaire, régression exponentielle et régression puissance en C.
 
-# Explications 
-
-
 # Compilation
-`gcc -o main main.c `
+`gcc -o Approximation Approximation.c `
 
 # Execution
-`./main`
+`./Approximation`
